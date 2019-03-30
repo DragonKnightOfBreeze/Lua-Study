@@ -1,0 +1,3 @@
+-- Reformatted and refactored by @DragonKnightOfBreeze.
+
+print('hello world')
